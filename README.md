@@ -5,7 +5,7 @@
 [![Status: Complete](https://img.shields.io/badge/Status-Complete-green)](https://github.com/NurulAis/Customer-segmentation-and-sales-analystics)
 [![Looker Studio](https://img.shields.io/badge/Dashboard-Looker%20Studio-B043FF)](https://lookerstudio.google.com/u/0/reporting/911492e8-c36d-490f-b1f8-bee117ae25f2/page/k7fiF)
 
-This project performs a 360-degree analysis of e-commerce transaction data, integrating in-depth Exploratory Data Analysis (EDA) and RFM analysis to power an **advanced Machine Learning-based segmentation model**.
+This project performs a 360-degree analysis of retail transaction data, integrating in-depth Exploratory Data Analysis (EDA) and RFM analysis to power an **advanced Machine Learning-based segmentation model**.
 
 
 
